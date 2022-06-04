@@ -15,4 +15,4 @@ b) For CD (DVD/BD): You need a empty writable disc, a data-disc-drive and a tool
 
 
 Legal distribution:
-Testdisk originally is Open-Source. So my modification of it will be. You are allowed to share/copy it in the same way its publisher allowed it. One request: If you plan to fork my ISO, feel free to do so, but you have to name me as original programmer for the mod in your readme!
+Testdisk originally is Open-Source. So my improved modification of it will be too. You are allowed to share/copy it in the same way its publisher allowed it. One request: If you plan to fork my ISO, feel free to do so, but you have to name me as original programmer for the mod in your readme!
