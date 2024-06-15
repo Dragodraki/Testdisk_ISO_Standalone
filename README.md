@@ -5,6 +5,12 @@ Testdisk is a reliant software to recover lost partitions or try to repair its t
 Version 7.2 seeems to be the latest (and last) release from 2024. The publisher provided it as windows app (.exe) and part of other images like Cygwin.
 But he never bothered to offer a direct ISO-image without the unnecessary elements.
 
+<br/>
+
+[<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/Testdisk_ISO_Standalone/releases/latest/download/Testdisk_7.2.iso)
+
+<br/>
+
 Here you go with Testdisk 7.2 as 3 megabyte size ISO file:
 
 a) For USB: You need an empty flash drive and a tool like "Rufus" or "Easy2Boot" to get it to work on a USB.
