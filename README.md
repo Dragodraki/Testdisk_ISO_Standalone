@@ -1,5 +1,5 @@
 # Testdisk_ISO_Standalone
-Allows to boot pure Testdisk-DOS from BIOS (UEFI CSM) - 3 MB Image
+Allows to boot pure Testdisk-DOS from BIOS (~~UEFI~~ CSM) - 3 MB Image
 
 Testdisk is a reliant software to recover lost partitions or try to repair its table when boot errors appear (if not encrypted or depth erased).
 Version 7.2 seeems to be the latest (and last) release from 2024. The publisher provided it as windows app (.exe) and part of other images like Cygwin.
