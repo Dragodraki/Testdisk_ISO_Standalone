@@ -17,7 +17,7 @@ Download | [<img src="https://user-images.githubusercontent.com/76787321/1972574
 Motherboard | BIOS/CSM only | UEFI & BIOS/CSM |
 Filesize | 3 MB | 634 MB |
 Version | 7.2 Stable (2024) | 7.2 Beta (2019) |
-Other tools | Testdisk | Testdisk, PhotoRec, Command Prompt, Registry Editor, MultiCommander |
+Other tools | Testdisk | Testdisk<br/>PhotoRec<br/>Command Prompt<br/>Registry Editor<br/>MultiCommander |
 <br/>
 
 -------------------------------
