@@ -8,6 +8,12 @@ But he never bothered to offer a direct ISO-image without the unnecessary elemen
 
 [<img src="https://user-images.githubusercontent.com/76787321/197257488-1b7aa8e9-9b6f-4600-949e-8ff477cb4bf4.png" width="23%"></img>](https://github.com/Dragodraki/Testdisk_ISO_Standalone/releases/latest/download/Testdisk_7.2.iso)
 
+If you explicit need Testdisk on UEFI-only systems or would like to have command prompt, registry and PhotoRec onboard too, take this 3rd party Testdisk-WinPE instead. I am neither liable for any damage you might do with it nor support any bugs since this is a reference link only.
+![download-button-orange](https://github.com/Dragodraki/Testdisk_ISO_Standalone/assets/76787321/02803f76-aa37-478f-968a-1edb410fd32e)
+
+
+https://downloads.sourceforge.net/project/testdisk-pe.testdisk.p/TestDisk%20PE_x64.iso?ts=gAAAAABmfTBIOp_81m6XE6zNI4QrFN035c9UkTLyAn-JfD5_x8UjXH6Rfh4zYBv-VBrkeJoIcWhftZI9cTOrcsCPC5pI8ShnEg%3D%3D&r=
+
 <br/>
 
 -------------------------------
