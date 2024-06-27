@@ -3,7 +3,7 @@ Allows to boot pure Testdisk-DOS from BIOS (~~UEFI~~ CSM) - 3 MB Image
 <br/>
 Alternatively use Testdisk-WinPE from BIOS or UEFI - 634 MB Image
 
-Testdisk is a reliant software to recover lost partitions or try to repair its table when boot errors appear (if not encrypted or depth erased).
+Testdisk is a reliant software to recover lost partitions or try to repair its table when boot errors appear (if not encrypted or depth erased), may it originated by defect disk sectors (hardware) or manipulated MBR aka master-boot-recored (software) as long the data is not encrypted/unreadable/overwritten. If you use Bitlocker or other disk encryption : forget it (no chance!).
 Version 7.2 seeems to be the latest (and last) release from 2024. The publisher provided it as windows app (.exe) and part of other images like Cygwin.
 But he never bothered to offer a direct ISO-image without the unnecessary elements.
 <br/>
