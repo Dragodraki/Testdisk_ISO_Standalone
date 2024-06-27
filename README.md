@@ -18,6 +18,7 @@ Version | 7.2 Stable (2024) | 7.2 Beta (2019) |
 Motherboard | BIOS/CSM only | UEFI & BIOS/CSM |
 Filesize | 3 MB | 634 MB |
 Booting speed | 1-2 secconds | about 30 secconds |
+Architecture | x86 (32 bit) | x64 (64bit) |
 Other tools | Testdisk | Testdisk<br/>PhotoRec<br/>Command Prompt<br/>Registry Editor<br/>MultiCommander |
 <br/>
 
