@@ -10,9 +10,6 @@ But he never bothered to offer a direct ISO-image without the unnecessary elemen
 
 If you explicit need Testdisk on UEFI-only systems or would like to have command prompt, registry and PhotoRec onboard too, take this 3rd party Testdisk-WinPE instead. I am neither liable for any damage you might do with it nor support any bugs since this is a reference link only.
 
-![download-button-orange](https://github.com/Dragodraki/Testdisk_ISO_Standalone/assets/76787321/9c77f5f7-62d1-4324-b132-2597dadf3f29)
-
-
 https://downloads.sourceforge.net/project/testdisk-pe.testdisk.p/TestDisk%20PE_x64.iso?ts=gAAAAABmfTBIOp_81m6XE6zNI4QrFN035c9UkTLyAn-JfD5_x8UjXH6Rfh4zYBv-VBrkeJoIcWhftZI9cTOrcsCPC5pI8ShnEg%3D%3D&r=
 
 <br/>
