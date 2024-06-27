@@ -23,6 +23,10 @@ Architecture | x86 (32 bit) | x64 (64bit) |
 Other tools | Testdisk | Testdisk<br/>PhotoRec<br/>Command Prompt<br/>Registry Editor<br/>MultiCommander |
 <br/>
 
+Important:
+Do not use the integrated command prompt in Testdisk WinPE version for manual/automatic startup repair for Windows Vista/7/8, as this WinPE based on Windows 10 many utils like bootrec.exe, bcdboot.exe and some others would mess up with any other than Windows 10 (and maybe Windows 11) or simply not work. I tested it myself: Only if using the appropriate general Windows ISO that matches your windows version the commands with bootrec.exe and bcdboot.exe were able to repair Windows. That means - please use Windows 7 ISO to repair Windows Vista/7, Windows 8 ISO to repair Windows 8, Windows 10/11  ISO to repair Windows 10/11.
+
+<br/>
 -------------------------------
 USAGE
 -------------------------------
