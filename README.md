@@ -25,14 +25,14 @@ Other tools | Testdisk | Testdisk<br/>PhotoRec<br/>Command Prompt<br/>Registry E
 USAGE
 -------------------------------
 
-Here you go with Testdisk 7.2 as 3 megabyte size ISO file:
+Here you go with Testdisk ISO file:
 
 a) For USB: You need an empty flash drive and a tool like "Rufus" or "Easy2Boot" to get it to work on a USB.
 
 b) For CD (DVD/BD): You need a empty writable disc, a data-disc-drive and a tool like "ImgDrive" or "CDBurnerXP" to burn it.
 
 Important:
-Due to DOS limitation it is absolutely incompatible with UEFI-only boot mode! Your computer needs a motherboard (that supports) having Legacy/BIOS boot mode enabled to enter Testdisk for DOS. This cannot be changed, I wasted much time by trying so - its in vain (UEFI simply sucks in my opinion).
+Due to DOS limitation the DOS-version it is absolutely incompatible with UEFI-only boot mode! Your computer needs a motherboard (that supports) having Legacy/BIOS boot mode enabled to enter Testdisk for DOS. This cannot be changed, I wasted much time by trying so - its in vain (UEFI simply sucks in my opinion). Solution: Use Testdisk-WinPE then instead.
 
 -> Put the disc/flash in your pc, disable secure boot in bios (if enabled) and press boot keyboard key (mostly F11/F12/ESC) to boot it. Press ENTER when asked whether you'l like to continue - testdisk is loaded. Note: As typical for DOS environment, keyboard inputs are supported only (no use of mouse possible).
 
@@ -42,4 +42,4 @@ LICENSE
 -------------------------------
 
 Legal distribution:
-Testdisk originally is Open-Source. So my improved modification of it will be too. You are allowed to share/copy it in the same way its publisher allowed it. One request: If you plan to fork my ISO, feel free to do so, but you have to name me as original programmer for the mod in your readme!
+Testdisk originally is Open-Source. So my improved modification of it will be too. You are allowed to share/copy it in the same way its publisher allowed it. That does not apply for the DOS/Microsoft system files, but is limited to Testdisk only. One request: If you plan to fork my Testdisk-DOS versioned ISO, feel free to do so, but you have to name me as original programmer for the mod in your readme!
